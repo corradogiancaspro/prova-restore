@@ -7,4 +7,8 @@ public class Print {
         return "Hello World!";
     }
 
+    public static String sayFuck(){
+        return "Fuck you!";
+    }
+
 }
